@@ -2,7 +2,7 @@
 
 Responsive card for a welcome bonus offer, where a visitor can rate the offer once with five stars. Built in January 2022 as a take-home assignment.
 
-**Live demo:** [test-task-welcome-bonus-react.vercel.app](https://test-task-welcome-bonus-react.vercel.app)
+**Live demo:** [react-welcome-bonus.vercel.app](https://react-welcome-bonus.vercel.app)
 
 ## Features
 
@@ -58,4 +58,4 @@ src/
 ## Notes
 
 - Votes stay in the page. `submitSelectedRating` in `src/api/api.ts` is prepared to POST the rating as JSON once a backend exists.
-- The same assignment in vanilla JavaScript is [welcome-bonus](https://github.com/androfficial/welcome-bonus).
+- The same assignment in vanilla JavaScript is [js-welcome-bonus](https://github.com/androfficial/js-welcome-bonus).
