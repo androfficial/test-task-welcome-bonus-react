@@ -10,7 +10,7 @@ export const submitSelectedRating = async (rating: number) => {
 
     return await response.json();
   } catch (error) {
-    console.error('Ошибка:', error);
+    console.error('Error:', error);
     return null;
   }
 };
